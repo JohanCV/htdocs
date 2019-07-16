@@ -1,0 +1,2 @@
+<!--contenido -->
+<section id="contenido">
